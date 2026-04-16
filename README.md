@@ -7,7 +7,7 @@ It includes a futuristic tech UI, live animations, sidebar navigation, assistant
 ## 🚀 Live Demo
 
 <p align="center">
-  <a href="https://kavya25007.github.io/Translator-Pro/">
+  <a href="https://kavya25007.github.io/Translator---Pro/">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge">
   </a>
 </p>
